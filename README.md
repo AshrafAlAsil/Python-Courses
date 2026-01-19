@@ -1,2 +1,3 @@
 # Python-Courses
-My Python Learning Journey
+
+This repository contains all my Python practice, lessons, and mini projects.
